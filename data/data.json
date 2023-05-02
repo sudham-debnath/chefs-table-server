@@ -5,9 +5,9 @@
       "picture": "https://www.lbhf.gov.uk/sites/default/files/styles/articles_main_image/public/newsarticle/taban-roosta-young-chef-0f-the-year-2015.jpg?itok=U89yqoDE",
       "name": "Giovanni Rossi",
       "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
+      "likes": 1793,
+      "num_recipes": 22,
+      "years_experience": 14,
       "cuisine": "Italian",
       "recipes": [
         {
@@ -36,11 +36,11 @@
     {
       "id": 2,
       "picture": "https://content.api.news/v3/images/bin/669b88ba5a2639b60f1cbde6b776f5f0",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
+      "name": "Massimo Bottura",
+      "bio": "Massimo Bottura is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+      "likes": 2837,
+      "num_recipes": 45,
+      "years_experience": 15,
       "cuisine": "Italian",
       "recipes": [
         {
@@ -69,11 +69,11 @@
     {
       "id": 3,
       "picture": "https://media-cdn2.greatbritishchefs.com/media/4m2l1p30/img84084.jpg",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
+      "name": "Gennaro Contaldo",
+      "bio": "Gennaro Contaldo is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+      "likes": 3670,
+      "num_recipes": 38,
+      "years_experience": 18,
       "cuisine": "Italian",
       "recipes": [
         {
@@ -102,11 +102,11 @@
     {
       "id": 4,
       "picture": "https://www.womeninthefoodindustry.com/wordpress/wp-content/uploads/Roberta-Hall-McCarron-Featured-Image-3.jpg",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
+      "name": "Lidia Bastianich",
+      "bio": "Lidia Bastianich is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+      "likes": 4080,
+      "num_recipes": 29,
+      "years_experience": 22,
       "cuisine": "Italian",
       "recipes": [
         {
@@ -135,11 +135,11 @@
     {
       "id": 5,
       "picture": "https://champions-speakers.co.uk/sites/default/files/2020-08/dean-edwards-thumbnail.jpg",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
+      "name": "Davide Scabin",
+      "bio": "Davide Scabin is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+      "likes": 5070,
+      "num_recipes": 30,
+      "years_experience": 23,
       "cuisine": "Italian",
       "recipes": [
         {
@@ -168,8 +168,8 @@
     {
       "id": 6,
       "picture": "https://assets.telegraphindia.com/telegraph/86ecc7a6-22e8-471c-b006-d9bbe199bca0.jpg",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+      "name": "Carlo Cracco",
+      "bio": "Carlo Cracco is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
       "likes": 6000,
       "num_recipes": 32,
       "years_experience": 25,
