@@ -1,202 +1,204 @@
-{
-  "chefs": [
-    {
-      "id": 1,
-      "picture": "https://www.lbhf.gov.uk/sites/default/files/styles/articles_main_image/public/newsarticle/taban-roosta-young-chef-0f-the-year-2015.jpg?itok=U89yqoDE",
-      "name": "Giovanni Rossi",
-      "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 1793,
-      "num_recipes": 22,
-      "years_experience": 14,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "picture": "https://content.api.news/v3/images/bin/669b88ba5a2639b60f1cbde6b776f5f0",
-      "name": "Massimo Bottura",
-      "bio": "Massimo Bottura is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 2837,
-      "num_recipes": 45,
-      "years_experience": 15,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "picture": "https://media-cdn2.greatbritishchefs.com/media/4m2l1p30/img84084.jpg",
-      "name": "Gennaro Contaldo",
-      "bio": "Gennaro Contaldo is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 3670,
-      "num_recipes": 38,
-      "years_experience": 18,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "picture": "https://www.womeninthefoodindustry.com/wordpress/wp-content/uploads/Roberta-Hall-McCarron-Featured-Image-3.jpg",
-      "name": "Lidia Bastianich",
-      "bio": "Lidia Bastianich is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 4080,
-      "num_recipes": 29,
-      "years_experience": 22,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "picture": "https://champions-speakers.co.uk/sites/default/files/2020-08/dean-edwards-thumbnail.jpg",
-      "name": "Davide Scabin",
-      "bio": "Davide Scabin is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 5070,
-      "num_recipes": 30,
-      "years_experience": 23,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "picture": "https://assets.telegraphindia.com/telegraph/86ecc7a6-22e8-471c-b006-d9bbe199bca0.jpg",
-      "name": "Carlo Cracco",
-      "bio": "Carlo Cracco is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
-      "likes": 6000,
-      "num_recipes": 32,
-      "years_experience": 25,
-      "cuisine": "Italian",
-      "recipes": [
-        {
-          "name": "Risotto ai Funghi",
-          "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
-          "rating": 4.8,
-          "favorite": true
-        },
-        {
-          "name": "Penne all'Arrabbiata",
-          "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
-          "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
-          "rating": 4.4,
-          "favorite": false
-        },
-        {
-          "name": "Tiramisu",
-          "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
-          "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
-          "rating": 4.7,
-          "favorite": true
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "chefs": [
+      {
+        "id": 1,
+        "picture": "https://www.lbhf.gov.uk/sites/default/files/styles/articles_main_image/public/newsarticle/taban-roosta-young-chef-0f-the-year-2015.jpg?itok=U89yqoDE",
+        "name": "Giovanni Rossi",
+        "bio": "Giovanni Rossi is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 1793,
+        "num_recipes": 22,
+        "years_experience": 14,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "picture": "https://content.api.news/v3/images/bin/669b88ba5a2639b60f1cbde6b776f5f0",
+        "name": "Massimo Bottura",
+        "bio": "Massimo Bottura is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 2837,
+        "num_recipes": 45,
+        "years_experience": 15,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "picture": "https://media-cdn2.greatbritishchefs.com/media/4m2l1p30/img84084.jpg",
+        "name": "Gennaro Contaldo",
+        "bio": "Gennaro Contaldo is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 3670,
+        "num_recipes": 38,
+        "years_experience": 18,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "picture": "https://www.womeninthefoodindustry.com/wordpress/wp-content/uploads/Roberta-Hall-McCarron-Featured-Image-3.jpg",
+        "name": "Lidia Bastianich",
+        "bio": "Lidia Bastianich is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 4080,
+        "num_recipes": 29,
+        "years_experience": 22,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "picture": "https://champions-speakers.co.uk/sites/default/files/2020-08/dean-edwards-thumbnail.jpg",
+        "name": "Davide Scabin",
+        "bio": "Davide Scabin is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 5070,
+        "num_recipes": 30,
+        "years_experience": 23,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "picture": "https://assets.telegraphindia.com/telegraph/86ecc7a6-22e8-471c-b006-d9bbe199bca0.jpg",
+        "name": "Carlo Cracco",
+        "bio": "Carlo Cracco is a passionate Italian chef with over 25 years of experience in the kitchen. He specializes in creating traditional Italian dishes with a modern twist.",
+        "likes": 6000,
+        "num_recipes": 32,
+        "years_experience": 25,
+        "cuisine": "Italian",
+        "recipes": [
+          {
+            "name": "Risotto ai Funghi",
+            "ingredients": "1 cup Arborio rice, 4 cups chicken broth, 1 cup sliced mushrooms, 1/2 cup grated parmesan cheese, 2 tbsp. butter, 2 cloves garlic, minced, 1/2 cup dry white wine, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large saucepan, bring chicken broth to a simmer. 2. In a separate large saucepan, heat butter over medium heat. 3. Add garlic and sauté for 1 minute. 4. Add Arborio rice and stir until coated with butter. 5. Add white wine and stir until absorbed. 6. Add chicken broth one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 7. After about 18-20 minutes, add sliced mushrooms and cook until the rice is tender and the mixture is creamy. 8. Stir in parmesan cheese and season with salt and pepper to taste. 9. Serve hot, garnished with chopped parsley.",
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Penne all'Arrabbiata",
+            "ingredients": "1 lb. penne pasta, 1 can (28 oz.) crushed tomatoes, 4 cloves garlic, minced, 1/4 cup olive oil, 1 tsp. red pepper flakes, Salt and pepper to taste, 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. Cook penne pasta in a pot of boiling salted water until al dente. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and red pepper flakes and sauté for 1 minute. 4. Add crushed tomatoes and let simmer for 20 minutes. 5. Season with salt and pepper to taste. 6. Drain pasta and add to the sauce. 7. Toss to combine and serve hot, garnished with chopped parsley.",
+            "rating": 4.4,
+            "favorite": false
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 tsp. vanilla extract, 1 lb. mascarpone cheese, 1/4 cup strong brewed espresso, 24 ladyfingers, 2 tbsp. unsweetened cocoa powder",
+            "cooking_method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat. 3.Stir constantly until the mixture thickens and coats the back of a spoon. 4. Remove from heat and let cool. 5. In a large bowl, beat heavy cream and vanilla extract",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+      }
+    ]
+  }
+]
